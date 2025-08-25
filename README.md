@@ -30,7 +30,7 @@ Este projeto foi construído com tecnologias modernas para garantir uma experiê
 
 Pode instalar o aplicativo diretamente no seu dispositivo Android através do ficheiro APK.
 
-1.  **[Faça o download do APK aqui](LINK_PARA_O_SEU_APK_NO_GITHUB_RELEASES)**.
+1.  **[Faça o download do APK aqui](https://drive.google.com/file/d/1leOUCDTh9TpdzUYVVtHCk7MfzOjYUwuw/view?usp=sharing)**.
 2.  Transfira o ficheiro `.apk` para o seu dispositivo Android.
 3.  Abra o gestor de ficheiros, localize o APK e toque nele para instalar. Pode ser necesssário permitir a instalação de fontes desconhecidas nas configurações do seu dispositivo.
 
